@@ -1,6 +1,7 @@
-// Math.min을 사용해서
-// arguments를 이용하여 이터러블 객체를 활용한다
+// 1번 인자로 받는 숫자들 중 최소값 찾기
+
 function solution(a, b, c) {
+    // arguments의 이터러블 객체를 활용
     let result = arguments[0];
 
     for(let i = 0; i < arguments.length; i++) {
@@ -11,11 +12,12 @@ function solution(a, b, c) {
     return result
 }
 
-
+// 만약 array로 받는다면
 function solution2(arr) {
     let result = arr[0];
 
-    for(let i = 0; i < arr.length - 1; i++) {
+    // for of 문은 이터러블 객체의 elements를 하나씩 호출
+    for(const i of arr) {
         if(result >= arr[i + 1]) {
             result = arr[i + 1]
         }

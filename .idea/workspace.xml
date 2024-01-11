@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00843b7d-8936-4e39-af22-ffbf77fb7b9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alogrithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem7.js" afterDir="false" />
+    <list default="true" id="00843b7d-8936-4e39-af22-ffbf77fb7b9d" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem2.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem3.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem4.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem5.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem6.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.problem5.js">
+  <component name="RunManager" selected="Node.js.problem3.js">
     <configuration name="problem1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -72,19 +67,19 @@
     <configuration name="problem3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="problem5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem5.js" working-dir="$PROJECT_DIR$">
+    <configuration name="problem4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem4.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="problem6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem6.js" working-dir="$PROJECT_DIR$">
+    <configuration name="problem5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/problem5.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.problem5.js" />
         <item itemvalue="Node.js.problem3.js" />
+        <item itemvalue="Node.js.problem4.js" />
         <item itemvalue="Node.js.problem2.js" />
+        <item itemvalue="Node.js.problem5.js" />
         <item itemvalue="Node.js.problem1.js" />
-        <item itemvalue="Node.js.problem6.js" />
       </list>
     </recent_temporary>
   </component>
@@ -99,11 +94,24 @@
       <workItem from="1704718424904" duration="5076000" />
       <workItem from="1704797397998" duration="8534000" />
       <workItem from="1704806377349" duration="4222000" />
-      <workItem from="1704812669703" duration="40000" />
+      <workItem from="1704812669703" duration="8374000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1704812741734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704812741735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
